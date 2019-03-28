@@ -39,12 +39,11 @@ def add_sensors():
   })
   return jsonify(DATABASE)
  
-# @app.route("/api/sensors", methods=['DELETE'])
-# def remove_sensor():
-#   index_to_remove = request.args.get('id')
-#   element_to_remove = DATABASE.find(index_to_remove)
-#   DATABASE.remove(element_to_remove)
-#   return jsonify(DATABASE)
+@app.route("/api/sensors/<int:sensor_id>", methods=['DELETE'])
+def remove_sensor(sensor_id):
+  global DATABASE
+  DATABASE = [sensor for sensor in DATABASE if not (sensor['id'] == sensor_id)] 
+  return jsonify(DATABASE)
 
 @app.route("/api/forecast", methods=['GET'])
 def get_forecast():
