@@ -13,10 +13,9 @@ open_weather_url = 'https://api.openweathermap.org/data/2.5/forecast'
 giphy_url = 'https://api.giphy.com/v1/gifs/random'
 darksky_url = 'https://api.darksky.net/forecast'
 
-index = 0;
-
-database = [{
-  "id": index,
+INDEX = 0
+DATABASE = [{
+  "id": INDEX,
   "name": "Tomek",
   "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
 }]
@@ -27,30 +26,32 @@ def main():
 
 @app.route("/api/sensors", methods=['GET'])
 def get_sensors():
-  return jsonify(database)
+  return jsonify(DATABASE)
 
-# @app.route("/api/sensors", methods=['POST'])
-#   def add_sensors():
-#    index++
-#    database.append({
-#      "id": index,
-#       requst...
-#     })
-#   return jsonify(database)
-
+@app.route("/api/sensors", methods=['POST'])
+def add_sensors():
+  global INDEX
+  INDEX = INDEX +1
+  content = request.get_json()
+  DATABASE.append({
+    "id": INDEX,
+    **content,
+  })
+  return jsonify(DATABASE)
+ 
 # @app.route("/api/sensors", methods=['DELETE'])
 # def remove_sensor():
 #   index_to_remove = request.args.get('id')
-#   element_to_remove = database.find(index_to_remove)
-#   database.remove(element_to_remove)
-#   return jsonify(database)
+#   element_to_remove = DATABASE.find(index_to_remove)
+#   DATABASE.remove(element_to_remove)
+#   return jsonify(DATABASE)
 
 @app.route("/api/forecast", methods=['GET'])
 def get_forecast():
   lat = request.args.get('lat')
   lng = request.args.get('lng')
   response = requests.get(f'{darksky_url}/{os.getenv("DARK_SKY_API_KEY")}/{lat},{lng}', params={
-    # 'lang': 'pl',
+    'lang': 'pl',
     'units': 'si'
   })
   return response.text
