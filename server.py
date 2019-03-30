@@ -13,9 +13,17 @@ open_weather_url = 'https://api.openweathermap.org/data/2.5/forecast'
 giphy_url = 'https://api.giphy.com/v1/gifs/random'
 darksky_url = 'https://api.darksky.net/forecast'
 
-INDEX = 0
+INDEX = 2
 DATABASE = [{
-  "id": INDEX,
+  "id": 0,
+  "name": "Tomek",
+  "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
+}, {
+  "id": 1,
+  "name": "Szymon",
+  "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
+}, {
+  "id": 2,
   "name": "Tomek",
   "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
 }]
@@ -26,7 +34,15 @@ def main():
 
 @app.route("/api/sensors", methods=['GET'])
 def get_sensors():
-  return jsonify(DATABASE)
+  SENSORS = []
+  for sensor in DATABASE:
+    response = requests.get(sensor["url"])
+    SENSORS.append({
+      "id": sensor["id"],
+      "name": sensor["name"],
+      "measurement": response.json(),
+    })
+  return jsonify(SENSORS)
 
 @app.route("/api/sensors", methods=['POST'])
 def add_sensors():
