@@ -34,15 +34,7 @@ def main():
 
 @app.route("/api/sensors", methods=['GET'])
 def get_sensors():
-  SENSORS = []
-  for sensor in DATABASE:
-    response = requests.get(sensor["url"])
-    SENSORS.append({
-      "id": sensor["id"],
-      "name": sensor["name"],
-      "measurement": response.json(),
-    })
-  return jsonify(SENSORS)
+  return jsonify(get_sensors_measurements(DATABASE))
 
 @app.route("/api/sensors", methods=['POST'])
 def add_sensors():
@@ -53,12 +45,13 @@ def add_sensors():
     "id": INDEX,
     **content,
   })
-  return jsonify(DATABASE)
+  return jsonify(get_sensors_measurements(DATABASE))
  
 @app.route("/api/sensors/<int:sensor_id>", methods=['DELETE'])
 def remove_sensor(sensor_id):
   global DATABASE
-  DATABASE = [sensor for sensor in DATABASE if not (sensor['id'] == sensor_id)] 
+  DATABASE = [sensor for sensor in DATABASE if not (sensor['id'] == sensor_id)]
+  DATABASE = get_sensors_measurements(DATABASE)
   return jsonify(DATABASE)
 
 @app.route("/api/forecast", methods=['GET'])
@@ -70,15 +63,6 @@ def get_forecast():
     'units': 'si'
   })
   return response.text
-# def get_forecast():
-#   response = requests.get(open_weather_url, params={
-#     'appid': os.getenv('OPEN_WEATHER_MAP_API_KEY'),
-#     'units': 'metric',
-#     'lat': request.args.get('lat'),
-#     'lon': request.args.get('lng'),
-#     'cnt': request.args.get('days'),
-#   })
-#   return response.text
 
 @app.route("/api/gif", methods=['GET'])
 def get_gif():
@@ -89,6 +73,15 @@ def get_gif():
   })
   return response.text
 
+def get_sensors_measurements(sensors_list):
+  SENSORS = []
+  for sensor in sensors_list:
+    response = requests.get(sensor["url"])
+    SENSORS.append({
+      **sensor,
+      "measurements": response.json(),
+    })
+  return SENSORS
 
 if __name__ == "__main__":
   app.run(host= '0.0.0.0')
