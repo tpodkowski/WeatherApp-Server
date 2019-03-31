@@ -5,9 +5,9 @@ import requests
 import json
 import os
 
-app = Flask(__name__)
+weather_app = Flask(__name__)
 load_dotenv()
-CORS(app)
+CORS(weather_app)
 
 open_weather_url = 'https://api.openweathermap.org/data/2.5/forecast'
 giphy_url = 'https://api.giphy.com/v1/gifs/random'
@@ -84,4 +84,4 @@ def get_sensors_measurements(sensors_list):
   return SENSORS
 
 if __name__ == "__main__":
-  app.run(host= '0.0.0.0')
+  weather_app.run()
