@@ -58,7 +58,7 @@ def remove_sensor(sensor_id):
 def get_forecast():
   lat = request.args.get('lat')
   lng = request.args.get('lng')
-  response = requests.get(f'{darksky_url}/{os.getenv("DARK_SKY_API_KEY")}/{lat},{lng}', params={
+  response = requests.get(darksky_url + "/" + os.getenv("DARK_SKY_API_KEY") + "/" + lat + "," + lng, params={
     'lang': 'pl',
     'units': 'si'
   })
