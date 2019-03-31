@@ -1,1 +1,1 @@
-web: gunicorn server:weather_app
+web: gunicorn server:app
