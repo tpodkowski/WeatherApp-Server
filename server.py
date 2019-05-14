@@ -73,6 +73,11 @@ def get_gif():
   })
   return response.text
 
+@app.route("/api/history/<int:sensor_id>", methods=['GET'])
+def get_history(sensor_id):
+  with open('measurement_2285.json', 'r') as history:  
+    return jsonify(json.load(history)[::24])
+
 def get_sensors_measurements(sensors_list):
   SENSORS = []
   for sensor in sensors_list:

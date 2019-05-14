@@ -1,0 +1,4994 @@
+[
+  {
+    "Timestamp": 1557173814,
+    "Date and time": "2019-05-06 22:16:54",
+    "Temperature": 23.7,
+    "Humidity": 48.4
+  },
+  {
+    "Timestamp": 1557174415,
+    "Date and time": "2019-05-06 22:26:55",
+    "Temperature": 22.899,
+    "Humidity": 50.299
+  },
+  {
+    "Timestamp": 1557175014,
+    "Date and time": "2019-05-06 22:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557175614,
+    "Date and time": "2019-05-06 22:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.7
+  },
+  {
+    "Timestamp": 1557176214,
+    "Date and time": "2019-05-06 22:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.799
+  },
+  {
+    "Timestamp": 1557176814,
+    "Date and time": "2019-05-06 23:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557177414,
+    "Date and time": "2019-05-06 23:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557178014,
+    "Date and time": "2019-05-06 23:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557178614,
+    "Date and time": "2019-05-06 23:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557179214,
+    "Date and time": "2019-05-06 23:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557179814,
+    "Date and time": "2019-05-06 23:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557180414,
+    "Date and time": "2019-05-07 00:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557181014,
+    "Date and time": "2019-05-07 00:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557181614,
+    "Date and time": "2019-05-07 00:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557182214,
+    "Date and time": "2019-05-07 00:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557182814,
+    "Date and time": "2019-05-07 00:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557183414,
+    "Date and time": "2019-05-07 00:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557184014,
+    "Date and time": "2019-05-07 01:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557184614,
+    "Date and time": "2019-05-07 01:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557185214,
+    "Date and time": "2019-05-07 01:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557185814,
+    "Date and time": "2019-05-07 01:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557186414,
+    "Date and time": "2019-05-07 01:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557187014,
+    "Date and time": "2019-05-07 01:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557187614,
+    "Date and time": "2019-05-07 02:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557188214,
+    "Date and time": "2019-05-07 02:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557188814,
+    "Date and time": "2019-05-07 02:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557189414,
+    "Date and time": "2019-05-07 02:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557190014,
+    "Date and time": "2019-05-07 02:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557190614,
+    "Date and time": "2019-05-07 02:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557191214,
+    "Date and time": "2019-05-07 03:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557191814,
+    "Date and time": "2019-05-07 03:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557192414,
+    "Date and time": "2019-05-07 03:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557193014,
+    "Date and time": "2019-05-07 03:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557193615,
+    "Date and time": "2019-05-07 03:46:55",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557194214,
+    "Date and time": "2019-05-07 03:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557194814,
+    "Date and time": "2019-05-07 04:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557195414,
+    "Date and time": "2019-05-07 04:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557196014,
+    "Date and time": "2019-05-07 04:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557196614,
+    "Date and time": "2019-05-07 04:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557197214,
+    "Date and time": "2019-05-07 04:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557197814,
+    "Date and time": "2019-05-07 04:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557198414,
+    "Date and time": "2019-05-07 05:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557199014,
+    "Date and time": "2019-05-07 05:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557199614,
+    "Date and time": "2019-05-07 05:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557200214,
+    "Date and time": "2019-05-07 05:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557200814,
+    "Date and time": "2019-05-07 05:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557201414,
+    "Date and time": "2019-05-07 05:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557202014,
+    "Date and time": "2019-05-07 06:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557202614,
+    "Date and time": "2019-05-07 06:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557203214,
+    "Date and time": "2019-05-07 06:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557203815,
+    "Date and time": "2019-05-07 06:36:55",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557204414,
+    "Date and time": "2019-05-07 06:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557205014,
+    "Date and time": "2019-05-07 06:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557205614,
+    "Date and time": "2019-05-07 07:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557206214,
+    "Date and time": "2019-05-07 07:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557206814,
+    "Date and time": "2019-05-07 07:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557207414,
+    "Date and time": "2019-05-07 07:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557208014,
+    "Date and time": "2019-05-07 07:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557208614,
+    "Date and time": "2019-05-07 07:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557209214,
+    "Date and time": "2019-05-07 08:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557209814,
+    "Date and time": "2019-05-07 08:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557210414,
+    "Date and time": "2019-05-07 08:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557211014,
+    "Date and time": "2019-05-07 08:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557211614,
+    "Date and time": "2019-05-07 08:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557212214,
+    "Date and time": "2019-05-07 08:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557212814,
+    "Date and time": "2019-05-07 09:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557213416,
+    "Date and time": "2019-05-07 09:16:56",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557214014,
+    "Date and time": "2019-05-07 09:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557214614,
+    "Date and time": "2019-05-07 09:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557215214,
+    "Date and time": "2019-05-07 09:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557215814,
+    "Date and time": "2019-05-07 09:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557216414,
+    "Date and time": "2019-05-07 10:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557217014,
+    "Date and time": "2019-05-07 10:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557217614,
+    "Date and time": "2019-05-07 10:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557218214,
+    "Date and time": "2019-05-07 10:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557218814,
+    "Date and time": "2019-05-07 10:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557219414,
+    "Date and time": "2019-05-07 10:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557220014,
+    "Date and time": "2019-05-07 11:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557220614,
+    "Date and time": "2019-05-07 11:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557221214,
+    "Date and time": "2019-05-07 11:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557221814,
+    "Date and time": "2019-05-07 11:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557222414,
+    "Date and time": "2019-05-07 11:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557223014,
+    "Date and time": "2019-05-07 11:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557223614,
+    "Date and time": "2019-05-07 12:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557224214,
+    "Date and time": "2019-05-07 12:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557224814,
+    "Date and time": "2019-05-07 12:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557225414,
+    "Date and time": "2019-05-07 12:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557226014,
+    "Date and time": "2019-05-07 12:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557226614,
+    "Date and time": "2019-05-07 12:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557227214,
+    "Date and time": "2019-05-07 13:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557227814,
+    "Date and time": "2019-05-07 13:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557228414,
+    "Date and time": "2019-05-07 13:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557229015,
+    "Date and time": "2019-05-07 13:36:55",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557229614,
+    "Date and time": "2019-05-07 13:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557230214,
+    "Date and time": "2019-05-07 13:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557230814,
+    "Date and time": "2019-05-07 14:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557231414,
+    "Date and time": "2019-05-07 14:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557232014,
+    "Date and time": "2019-05-07 14:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557232614,
+    "Date and time": "2019-05-07 14:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557233214,
+    "Date and time": "2019-05-07 14:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557233814,
+    "Date and time": "2019-05-07 14:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557234414,
+    "Date and time": "2019-05-07 15:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557235014,
+    "Date and time": "2019-05-07 15:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557235614,
+    "Date and time": "2019-05-07 15:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557236214,
+    "Date and time": "2019-05-07 15:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557236814,
+    "Date and time": "2019-05-07 15:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557237414,
+    "Date and time": "2019-05-07 15:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557238014,
+    "Date and time": "2019-05-07 16:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557238614,
+    "Date and time": "2019-05-07 16:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557239214,
+    "Date and time": "2019-05-07 16:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557239814,
+    "Date and time": "2019-05-07 16:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557240414,
+    "Date and time": "2019-05-07 16:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557241014,
+    "Date and time": "2019-05-07 16:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557241614,
+    "Date and time": "2019-05-07 17:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557242214,
+    "Date and time": "2019-05-07 17:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557242814,
+    "Date and time": "2019-05-07 17:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557243414,
+    "Date and time": "2019-05-07 17:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557244014,
+    "Date and time": "2019-05-07 17:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557244614,
+    "Date and time": "2019-05-07 17:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557245214,
+    "Date and time": "2019-05-07 18:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557245814,
+    "Date and time": "2019-05-07 18:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557246414,
+    "Date and time": "2019-05-07 18:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557247014,
+    "Date and time": "2019-05-07 18:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557247614,
+    "Date and time": "2019-05-07 18:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557248214,
+    "Date and time": "2019-05-07 18:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557248814,
+    "Date and time": "2019-05-07 19:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557249414,
+    "Date and time": "2019-05-07 19:16:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557250014,
+    "Date and time": "2019-05-07 19:26:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557250614,
+    "Date and time": "2019-05-07 19:36:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557251214,
+    "Date and time": "2019-05-07 19:46:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557251814,
+    "Date and time": "2019-05-07 19:56:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557252414,
+    "Date and time": "2019-05-07 20:06:54",
+    "Temperature": 22.899,
+    "Humidity": 51.599
+  },
+  {
+    "Timestamp": 1557253014,
+    "Date and time": "2019-05-07 20:16:54",
+    "Temperature": 23.2,
+    "Humidity": 69
+  },
+  {
+    "Timestamp": 1557253614,
+    "Date and time": "2019-05-07 20:26:54",
+    "Temperature": 23.2,
+    "Humidity": 70.599
+  },
+  {
+    "Timestamp": 1557254214,
+    "Date and time": "2019-05-07 20:36:54",
+    "Temperature": 22.7,
+    "Humidity": 57.9
+  },
+  {
+    "Timestamp": 1557254814,
+    "Date and time": "2019-05-07 20:46:54",
+    "Temperature": 22.5,
+    "Humidity": 56.099
+  },
+  {
+    "Timestamp": 1557255414,
+    "Date and time": "2019-05-07 20:56:54",
+    "Temperature": 22.299,
+    "Humidity": 52.9
+  },
+  {
+    "Timestamp": 1557256014,
+    "Date and time": "2019-05-07 21:06:54",
+    "Temperature": 22.1,
+    "Humidity": 51.2
+  },
+  {
+    "Timestamp": 1557256614,
+    "Date and time": "2019-05-07 21:16:54",
+    "Temperature": 22,
+    "Humidity": 49.7
+  },
+  {
+    "Timestamp": 1557257214,
+    "Date and time": "2019-05-07 21:26:54",
+    "Temperature": 22,
+    "Humidity": 49.7
+  },
+  {
+    "Timestamp": 1557257814,
+    "Date and time": "2019-05-07 21:36:54",
+    "Temperature": 22,
+    "Humidity": 49.7
+  },
+  {
+    "Timestamp": 1557258414,
+    "Date and time": "2019-05-07 21:46:54",
+    "Temperature": 22.5,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557259014,
+    "Date and time": "2019-05-07 21:56:54",
+    "Temperature": 22.5,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557259614,
+    "Date and time": "2019-05-07 22:06:54",
+    "Temperature": 22.5,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557260214,
+    "Date and time": "2019-05-07 22:16:54",
+    "Temperature": 22.5,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557260815,
+    "Date and time": "2019-05-07 22:26:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557261414,
+    "Date and time": "2019-05-07 22:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557262014,
+    "Date and time": "2019-05-07 22:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557262614,
+    "Date and time": "2019-05-07 22:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557263214,
+    "Date and time": "2019-05-07 23:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557263814,
+    "Date and time": "2019-05-07 23:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557264414,
+    "Date and time": "2019-05-07 23:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557265014,
+    "Date and time": "2019-05-07 23:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557265614,
+    "Date and time": "2019-05-07 23:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557266214,
+    "Date and time": "2019-05-07 23:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557266814,
+    "Date and time": "2019-05-08 00:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557267414,
+    "Date and time": "2019-05-08 00:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557268014,
+    "Date and time": "2019-05-08 00:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557268614,
+    "Date and time": "2019-05-08 00:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557269214,
+    "Date and time": "2019-05-08 00:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557269814,
+    "Date and time": "2019-05-08 00:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557270414,
+    "Date and time": "2019-05-08 01:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557271014,
+    "Date and time": "2019-05-08 01:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557271614,
+    "Date and time": "2019-05-08 01:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557272215,
+    "Date and time": "2019-05-08 01:36:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557272814,
+    "Date and time": "2019-05-08 01:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557273414,
+    "Date and time": "2019-05-08 01:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557274014,
+    "Date and time": "2019-05-08 02:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557274614,
+    "Date and time": "2019-05-08 02:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557275214,
+    "Date and time": "2019-05-08 02:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557275814,
+    "Date and time": "2019-05-08 02:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557276414,
+    "Date and time": "2019-05-08 02:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557277014,
+    "Date and time": "2019-05-08 02:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557277614,
+    "Date and time": "2019-05-08 03:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557278214,
+    "Date and time": "2019-05-08 03:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557278814,
+    "Date and time": "2019-05-08 03:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557279414,
+    "Date and time": "2019-05-08 03:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557280014,
+    "Date and time": "2019-05-08 03:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557280614,
+    "Date and time": "2019-05-08 03:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557281214,
+    "Date and time": "2019-05-08 04:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557281814,
+    "Date and time": "2019-05-08 04:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557282414,
+    "Date and time": "2019-05-08 04:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557283014,
+    "Date and time": "2019-05-08 04:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557283614,
+    "Date and time": "2019-05-08 04:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557284214,
+    "Date and time": "2019-05-08 04:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557284814,
+    "Date and time": "2019-05-08 05:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557285414,
+    "Date and time": "2019-05-08 05:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557286014,
+    "Date and time": "2019-05-08 05:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557286614,
+    "Date and time": "2019-05-08 05:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557287214,
+    "Date and time": "2019-05-08 05:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557287814,
+    "Date and time": "2019-05-08 05:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557288414,
+    "Date and time": "2019-05-08 06:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557289014,
+    "Date and time": "2019-05-08 06:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557289614,
+    "Date and time": "2019-05-08 06:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557290214,
+    "Date and time": "2019-05-08 06:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557290814,
+    "Date and time": "2019-05-08 06:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557291414,
+    "Date and time": "2019-05-08 06:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557292014,
+    "Date and time": "2019-05-08 07:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557292614,
+    "Date and time": "2019-05-08 07:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557293214,
+    "Date and time": "2019-05-08 07:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557293814,
+    "Date and time": "2019-05-08 07:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557294415,
+    "Date and time": "2019-05-08 07:46:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557295014,
+    "Date and time": "2019-05-08 07:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557295614,
+    "Date and time": "2019-05-08 08:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557296214,
+    "Date and time": "2019-05-08 08:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557296814,
+    "Date and time": "2019-05-08 08:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557297414,
+    "Date and time": "2019-05-08 08:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557298014,
+    "Date and time": "2019-05-08 08:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557298614,
+    "Date and time": "2019-05-08 08:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557299214,
+    "Date and time": "2019-05-08 09:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557299814,
+    "Date and time": "2019-05-08 09:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557300415,
+    "Date and time": "2019-05-08 09:26:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557301014,
+    "Date and time": "2019-05-08 09:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557301614,
+    "Date and time": "2019-05-08 09:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557302214,
+    "Date and time": "2019-05-08 09:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557302814,
+    "Date and time": "2019-05-08 10:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557303414,
+    "Date and time": "2019-05-08 10:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557304014,
+    "Date and time": "2019-05-08 10:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557304614,
+    "Date and time": "2019-05-08 10:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557305214,
+    "Date and time": "2019-05-08 10:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557305814,
+    "Date and time": "2019-05-08 10:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557306414,
+    "Date and time": "2019-05-08 11:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557307014,
+    "Date and time": "2019-05-08 11:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557307614,
+    "Date and time": "2019-05-08 11:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557308214,
+    "Date and time": "2019-05-08 11:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557308814,
+    "Date and time": "2019-05-08 11:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557309414,
+    "Date and time": "2019-05-08 11:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557310014,
+    "Date and time": "2019-05-08 12:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557310614,
+    "Date and time": "2019-05-08 12:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557311214,
+    "Date and time": "2019-05-08 12:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557311814,
+    "Date and time": "2019-05-08 12:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557312415,
+    "Date and time": "2019-05-08 12:46:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557313014,
+    "Date and time": "2019-05-08 12:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557313614,
+    "Date and time": "2019-05-08 13:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557314214,
+    "Date and time": "2019-05-08 13:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557314814,
+    "Date and time": "2019-05-08 13:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557315414,
+    "Date and time": "2019-05-08 13:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557316014,
+    "Date and time": "2019-05-08 13:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557316614,
+    "Date and time": "2019-05-08 13:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557317214,
+    "Date and time": "2019-05-08 14:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557317814,
+    "Date and time": "2019-05-08 14:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557318414,
+    "Date and time": "2019-05-08 14:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557319014,
+    "Date and time": "2019-05-08 14:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557319614,
+    "Date and time": "2019-05-08 14:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557320214,
+    "Date and time": "2019-05-08 14:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557320814,
+    "Date and time": "2019-05-08 15:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557321414,
+    "Date and time": "2019-05-08 15:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557322014,
+    "Date and time": "2019-05-08 15:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557322614,
+    "Date and time": "2019-05-08 15:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557323214,
+    "Date and time": "2019-05-08 15:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557323814,
+    "Date and time": "2019-05-08 15:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557324414,
+    "Date and time": "2019-05-08 16:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557325014,
+    "Date and time": "2019-05-08 16:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557325614,
+    "Date and time": "2019-05-08 16:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557326214,
+    "Date and time": "2019-05-08 16:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557326814,
+    "Date and time": "2019-05-08 16:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557327414,
+    "Date and time": "2019-05-08 16:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557328014,
+    "Date and time": "2019-05-08 17:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557328614,
+    "Date and time": "2019-05-08 17:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557329214,
+    "Date and time": "2019-05-08 17:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557329814,
+    "Date and time": "2019-05-08 17:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557330414,
+    "Date and time": "2019-05-08 17:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557331014,
+    "Date and time": "2019-05-08 17:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557331614,
+    "Date and time": "2019-05-08 18:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557332214,
+    "Date and time": "2019-05-08 18:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557332814,
+    "Date and time": "2019-05-08 18:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557333414,
+    "Date and time": "2019-05-08 18:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557334014,
+    "Date and time": "2019-05-08 18:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557334614,
+    "Date and time": "2019-05-08 18:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557335214,
+    "Date and time": "2019-05-08 19:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557335814,
+    "Date and time": "2019-05-08 19:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557336415,
+    "Date and time": "2019-05-08 19:26:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557337014,
+    "Date and time": "2019-05-08 19:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557337614,
+    "Date and time": "2019-05-08 19:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557338215,
+    "Date and time": "2019-05-08 19:56:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557338814,
+    "Date and time": "2019-05-08 20:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557339414,
+    "Date and time": "2019-05-08 20:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557340014,
+    "Date and time": "2019-05-08 20:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557340614,
+    "Date and time": "2019-05-08 20:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557341214,
+    "Date and time": "2019-05-08 20:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557341814,
+    "Date and time": "2019-05-08 20:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557342414,
+    "Date and time": "2019-05-08 21:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557343014,
+    "Date and time": "2019-05-08 21:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557343614,
+    "Date and time": "2019-05-08 21:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557344214,
+    "Date and time": "2019-05-08 21:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557344814,
+    "Date and time": "2019-05-08 21:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557345414,
+    "Date and time": "2019-05-08 21:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557346014,
+    "Date and time": "2019-05-08 22:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557346614,
+    "Date and time": "2019-05-08 22:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557347214,
+    "Date and time": "2019-05-08 22:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557347814,
+    "Date and time": "2019-05-08 22:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557348414,
+    "Date and time": "2019-05-08 22:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557349014,
+    "Date and time": "2019-05-08 22:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557349614,
+    "Date and time": "2019-05-08 23:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557350214,
+    "Date and time": "2019-05-08 23:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557350814,
+    "Date and time": "2019-05-08 23:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557351414,
+    "Date and time": "2019-05-08 23:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557352014,
+    "Date and time": "2019-05-08 23:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557352614,
+    "Date and time": "2019-05-08 23:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557353214,
+    "Date and time": "2019-05-09 00:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557353814,
+    "Date and time": "2019-05-09 00:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557354414,
+    "Date and time": "2019-05-09 00:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557355014,
+    "Date and time": "2019-05-09 00:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557355614,
+    "Date and time": "2019-05-09 00:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557356214,
+    "Date and time": "2019-05-09 00:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557356814,
+    "Date and time": "2019-05-09 01:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557357414,
+    "Date and time": "2019-05-09 01:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557358014,
+    "Date and time": "2019-05-09 01:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557358614,
+    "Date and time": "2019-05-09 01:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557359214,
+    "Date and time": "2019-05-09 01:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557359814,
+    "Date and time": "2019-05-09 01:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557360414,
+    "Date and time": "2019-05-09 02:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557361014,
+    "Date and time": "2019-05-09 02:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557361614,
+    "Date and time": "2019-05-09 02:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557362214,
+    "Date and time": "2019-05-09 02:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557362814,
+    "Date and time": "2019-05-09 02:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557363414,
+    "Date and time": "2019-05-09 02:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557364014,
+    "Date and time": "2019-05-09 03:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557364614,
+    "Date and time": "2019-05-09 03:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557365214,
+    "Date and time": "2019-05-09 03:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557365814,
+    "Date and time": "2019-05-09 03:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557366414,
+    "Date and time": "2019-05-09 03:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557367014,
+    "Date and time": "2019-05-09 03:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557367614,
+    "Date and time": "2019-05-09 04:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557368214,
+    "Date and time": "2019-05-09 04:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557368814,
+    "Date and time": "2019-05-09 04:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557369414,
+    "Date and time": "2019-05-09 04:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557370014,
+    "Date and time": "2019-05-09 04:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557370614,
+    "Date and time": "2019-05-09 04:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557371214,
+    "Date and time": "2019-05-09 05:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557371815,
+    "Date and time": "2019-05-09 05:16:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557372414,
+    "Date and time": "2019-05-09 05:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557373014,
+    "Date and time": "2019-05-09 05:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557373614,
+    "Date and time": "2019-05-09 05:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557374214,
+    "Date and time": "2019-05-09 05:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557374814,
+    "Date and time": "2019-05-09 06:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557375414,
+    "Date and time": "2019-05-09 06:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557376014,
+    "Date and time": "2019-05-09 06:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557376614,
+    "Date and time": "2019-05-09 06:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557377214,
+    "Date and time": "2019-05-09 06:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557377814,
+    "Date and time": "2019-05-09 06:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557378414,
+    "Date and time": "2019-05-09 07:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557379014,
+    "Date and time": "2019-05-09 07:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557379614,
+    "Date and time": "2019-05-09 07:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557380214,
+    "Date and time": "2019-05-09 07:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557380814,
+    "Date and time": "2019-05-09 07:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557381414,
+    "Date and time": "2019-05-09 07:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557382014,
+    "Date and time": "2019-05-09 08:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557382614,
+    "Date and time": "2019-05-09 08:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557383214,
+    "Date and time": "2019-05-09 08:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557383814,
+    "Date and time": "2019-05-09 08:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557384414,
+    "Date and time": "2019-05-09 08:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557385014,
+    "Date and time": "2019-05-09 08:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557385614,
+    "Date and time": "2019-05-09 09:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557386214,
+    "Date and time": "2019-05-09 09:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557386814,
+    "Date and time": "2019-05-09 09:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557387414,
+    "Date and time": "2019-05-09 09:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557388014,
+    "Date and time": "2019-05-09 09:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557388614,
+    "Date and time": "2019-05-09 09:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557389214,
+    "Date and time": "2019-05-09 10:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557389814,
+    "Date and time": "2019-05-09 10:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557390414,
+    "Date and time": "2019-05-09 10:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557391014,
+    "Date and time": "2019-05-09 10:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557391614,
+    "Date and time": "2019-05-09 10:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557392214,
+    "Date and time": "2019-05-09 10:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557392814,
+    "Date and time": "2019-05-09 11:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557393414,
+    "Date and time": "2019-05-09 11:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557394014,
+    "Date and time": "2019-05-09 11:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557394614,
+    "Date and time": "2019-05-09 11:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557395215,
+    "Date and time": "2019-05-09 11:46:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557395814,
+    "Date and time": "2019-05-09 11:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557396414,
+    "Date and time": "2019-05-09 12:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557397014,
+    "Date and time": "2019-05-09 12:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557397614,
+    "Date and time": "2019-05-09 12:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557398214,
+    "Date and time": "2019-05-09 12:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557398814,
+    "Date and time": "2019-05-09 12:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557399414,
+    "Date and time": "2019-05-09 12:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557400014,
+    "Date and time": "2019-05-09 13:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557400614,
+    "Date and time": "2019-05-09 13:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557401214,
+    "Date and time": "2019-05-09 13:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557401814,
+    "Date and time": "2019-05-09 13:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557402414,
+    "Date and time": "2019-05-09 13:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557403014,
+    "Date and time": "2019-05-09 13:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557403614,
+    "Date and time": "2019-05-09 14:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557404215,
+    "Date and time": "2019-05-09 14:16:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557404814,
+    "Date and time": "2019-05-09 14:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557405414,
+    "Date and time": "2019-05-09 14:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557406014,
+    "Date and time": "2019-05-09 14:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557406614,
+    "Date and time": "2019-05-09 14:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557407215,
+    "Date and time": "2019-05-09 15:06:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557407814,
+    "Date and time": "2019-05-09 15:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557408414,
+    "Date and time": "2019-05-09 15:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557409014,
+    "Date and time": "2019-05-09 15:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557409614,
+    "Date and time": "2019-05-09 15:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557410214,
+    "Date and time": "2019-05-09 15:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557410814,
+    "Date and time": "2019-05-09 16:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557411414,
+    "Date and time": "2019-05-09 16:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557412014,
+    "Date and time": "2019-05-09 16:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557412615,
+    "Date and time": "2019-05-09 16:36:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557413214,
+    "Date and time": "2019-05-09 16:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557413814,
+    "Date and time": "2019-05-09 16:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557414414,
+    "Date and time": "2019-05-09 17:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557415014,
+    "Date and time": "2019-05-09 17:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557415614,
+    "Date and time": "2019-05-09 17:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557416214,
+    "Date and time": "2019-05-09 17:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557416814,
+    "Date and time": "2019-05-09 17:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557417414,
+    "Date and time": "2019-05-09 17:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557418014,
+    "Date and time": "2019-05-09 18:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557418614,
+    "Date and time": "2019-05-09 18:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557419214,
+    "Date and time": "2019-05-09 18:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557419814,
+    "Date and time": "2019-05-09 18:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557420414,
+    "Date and time": "2019-05-09 18:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557421014,
+    "Date and time": "2019-05-09 18:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557421614,
+    "Date and time": "2019-05-09 19:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557422214,
+    "Date and time": "2019-05-09 19:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557422814,
+    "Date and time": "2019-05-09 19:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557423414,
+    "Date and time": "2019-05-09 19:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557424014,
+    "Date and time": "2019-05-09 19:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557424614,
+    "Date and time": "2019-05-09 19:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557425215,
+    "Date and time": "2019-05-09 20:06:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557425814,
+    "Date and time": "2019-05-09 20:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557426414,
+    "Date and time": "2019-05-09 20:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557427014,
+    "Date and time": "2019-05-09 20:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557427614,
+    "Date and time": "2019-05-09 20:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557428214,
+    "Date and time": "2019-05-09 20:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557428814,
+    "Date and time": "2019-05-09 21:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557429414,
+    "Date and time": "2019-05-09 21:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557430015,
+    "Date and time": "2019-05-09 21:26:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557430614,
+    "Date and time": "2019-05-09 21:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557431214,
+    "Date and time": "2019-05-09 21:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557431814,
+    "Date and time": "2019-05-09 21:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557432414,
+    "Date and time": "2019-05-09 22:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557433014,
+    "Date and time": "2019-05-09 22:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557433614,
+    "Date and time": "2019-05-09 22:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557434214,
+    "Date and time": "2019-05-09 22:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557434815,
+    "Date and time": "2019-05-09 22:46:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557435414,
+    "Date and time": "2019-05-09 22:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557436014,
+    "Date and time": "2019-05-09 23:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557436614,
+    "Date and time": "2019-05-09 23:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557437214,
+    "Date and time": "2019-05-09 23:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557437814,
+    "Date and time": "2019-05-09 23:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557438414,
+    "Date and time": "2019-05-09 23:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557439014,
+    "Date and time": "2019-05-09 23:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557439614,
+    "Date and time": "2019-05-10 00:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557440214,
+    "Date and time": "2019-05-10 00:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557440814,
+    "Date and time": "2019-05-10 00:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557441414,
+    "Date and time": "2019-05-10 00:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557442014,
+    "Date and time": "2019-05-10 00:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557442614,
+    "Date and time": "2019-05-10 00:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557443214,
+    "Date and time": "2019-05-10 01:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557443814,
+    "Date and time": "2019-05-10 01:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557444414,
+    "Date and time": "2019-05-10 01:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557445014,
+    "Date and time": "2019-05-10 01:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557445614,
+    "Date and time": "2019-05-10 01:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557446214,
+    "Date and time": "2019-05-10 01:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557446814,
+    "Date and time": "2019-05-10 02:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557447414,
+    "Date and time": "2019-05-10 02:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557448014,
+    "Date and time": "2019-05-10 02:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557448614,
+    "Date and time": "2019-05-10 02:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557449214,
+    "Date and time": "2019-05-10 02:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557449814,
+    "Date and time": "2019-05-10 02:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557450414,
+    "Date and time": "2019-05-10 03:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557451014,
+    "Date and time": "2019-05-10 03:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557451614,
+    "Date and time": "2019-05-10 03:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557452214,
+    "Date and time": "2019-05-10 03:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557452814,
+    "Date and time": "2019-05-10 03:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557453414,
+    "Date and time": "2019-05-10 03:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557454014,
+    "Date and time": "2019-05-10 04:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557454614,
+    "Date and time": "2019-05-10 04:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557455214,
+    "Date and time": "2019-05-10 04:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557455814,
+    "Date and time": "2019-05-10 04:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557456414,
+    "Date and time": "2019-05-10 04:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557457014,
+    "Date and time": "2019-05-10 04:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557457615,
+    "Date and time": "2019-05-10 05:06:55",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557458214,
+    "Date and time": "2019-05-10 05:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557458814,
+    "Date and time": "2019-05-10 05:26:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557459414,
+    "Date and time": "2019-05-10 05:36:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557460014,
+    "Date and time": "2019-05-10 05:46:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557460614,
+    "Date and time": "2019-05-10 05:56:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557461214,
+    "Date and time": "2019-05-10 06:06:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557461814,
+    "Date and time": "2019-05-10 06:16:54",
+    "Temperature": 22.399,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557462414,
+    "Date and time": "2019-05-10 06:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557463014,
+    "Date and time": "2019-05-10 06:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557463614,
+    "Date and time": "2019-05-10 06:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557464214,
+    "Date and time": "2019-05-10 06:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557464814,
+    "Date and time": "2019-05-10 07:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557465414,
+    "Date and time": "2019-05-10 07:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557466015,
+    "Date and time": "2019-05-10 07:26:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557466614,
+    "Date and time": "2019-05-10 07:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557467214,
+    "Date and time": "2019-05-10 07:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557467814,
+    "Date and time": "2019-05-10 07:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557468414,
+    "Date and time": "2019-05-10 08:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557469014,
+    "Date and time": "2019-05-10 08:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557469614,
+    "Date and time": "2019-05-10 08:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557470214,
+    "Date and time": "2019-05-10 08:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557470815,
+    "Date and time": "2019-05-10 08:46:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557471414,
+    "Date and time": "2019-05-10 08:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557472014,
+    "Date and time": "2019-05-10 09:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557472614,
+    "Date and time": "2019-05-10 09:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557473215,
+    "Date and time": "2019-05-10 09:26:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557473814,
+    "Date and time": "2019-05-10 09:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557474414,
+    "Date and time": "2019-05-10 09:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557475014,
+    "Date and time": "2019-05-10 09:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557475614,
+    "Date and time": "2019-05-10 10:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557476214,
+    "Date and time": "2019-05-10 10:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557476814,
+    "Date and time": "2019-05-10 10:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557477414,
+    "Date and time": "2019-05-10 10:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557478014,
+    "Date and time": "2019-05-10 10:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557478614,
+    "Date and time": "2019-05-10 10:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557479214,
+    "Date and time": "2019-05-10 11:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557479814,
+    "Date and time": "2019-05-10 11:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557480414,
+    "Date and time": "2019-05-10 11:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557481014,
+    "Date and time": "2019-05-10 11:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557481615,
+    "Date and time": "2019-05-10 11:46:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557482214,
+    "Date and time": "2019-05-10 11:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557482814,
+    "Date and time": "2019-05-10 12:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557483414,
+    "Date and time": "2019-05-10 12:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557484014,
+    "Date and time": "2019-05-10 12:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557484614,
+    "Date and time": "2019-05-10 12:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557485214,
+    "Date and time": "2019-05-10 12:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557485814,
+    "Date and time": "2019-05-10 12:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557486414,
+    "Date and time": "2019-05-10 13:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557487015,
+    "Date and time": "2019-05-10 13:16:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557487614,
+    "Date and time": "2019-05-10 13:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557488214,
+    "Date and time": "2019-05-10 13:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557488814,
+    "Date and time": "2019-05-10 13:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557489415,
+    "Date and time": "2019-05-10 13:56:55",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557490014,
+    "Date and time": "2019-05-10 14:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557490614,
+    "Date and time": "2019-05-10 14:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557491214,
+    "Date and time": "2019-05-10 14:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557491814,
+    "Date and time": "2019-05-10 14:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557492414,
+    "Date and time": "2019-05-10 14:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557493014,
+    "Date and time": "2019-05-10 14:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557493614,
+    "Date and time": "2019-05-10 15:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557494214,
+    "Date and time": "2019-05-10 15:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557494814,
+    "Date and time": "2019-05-10 15:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557495414,
+    "Date and time": "2019-05-10 15:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557496014,
+    "Date and time": "2019-05-10 15:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557496614,
+    "Date and time": "2019-05-10 15:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557497214,
+    "Date and time": "2019-05-10 16:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557497814,
+    "Date and time": "2019-05-10 16:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557498414,
+    "Date and time": "2019-05-10 16:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557499014,
+    "Date and time": "2019-05-10 16:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557499614,
+    "Date and time": "2019-05-10 16:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557500214,
+    "Date and time": "2019-05-10 16:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557500814,
+    "Date and time": "2019-05-10 17:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557501414,
+    "Date and time": "2019-05-10 17:16:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557502014,
+    "Date and time": "2019-05-10 17:26:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557502614,
+    "Date and time": "2019-05-10 17:36:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557503214,
+    "Date and time": "2019-05-10 17:46:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557503814,
+    "Date and time": "2019-05-10 17:56:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557504414,
+    "Date and time": "2019-05-10 18:06:54",
+    "Temperature": 0,
+    "Humidity": 0
+  },
+  {
+    "Timestamp": 1557505014,
+    "Date and time": "2019-05-10 18:16:54",
+    "Temperature": 22.6,
+    "Humidity": 49.299
+  },
+  {
+    "Timestamp": 1557505614,
+    "Date and time": "2019-05-10 18:26:54",
+    "Temperature": 22.7,
+    "Humidity": 52.9
+  },
+  {
+    "Timestamp": 1557506214,
+    "Date and time": "2019-05-10 18:36:54",
+    "Temperature": 22.7,
+    "Humidity": 55
+  },
+  {
+    "Timestamp": 1557506814,
+    "Date and time": "2019-05-10 18:46:54",
+    "Temperature": 22.799,
+    "Humidity": 55
+  },
+  {
+    "Timestamp": 1557507414,
+    "Date and time": "2019-05-10 18:56:54",
+    "Temperature": 22.899,
+    "Humidity": 55.599
+  },
+  {
+    "Timestamp": 1557508014,
+    "Date and time": "2019-05-10 19:06:54",
+    "Temperature": 23.1,
+    "Humidity": 55.5
+  },
+  {
+    "Timestamp": 1557508614,
+    "Date and time": "2019-05-10 19:16:54",
+    "Temperature": 23.1,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557509214,
+    "Date and time": "2019-05-10 19:26:54",
+    "Temperature": 23.1,
+    "Humidity": 55
+  },
+  {
+    "Timestamp": 1557509814,
+    "Date and time": "2019-05-10 19:36:54",
+    "Temperature": 23.1,
+    "Humidity": 54.7
+  },
+  {
+    "Timestamp": 1557510414,
+    "Date and time": "2019-05-10 19:46:54",
+    "Temperature": 22.899,
+    "Humidity": 54.099
+  },
+  {
+    "Timestamp": 1557511014,
+    "Date and time": "2019-05-10 19:56:54",
+    "Temperature": 23.1,
+    "Humidity": 53.799
+  },
+  {
+    "Timestamp": 1557511614,
+    "Date and time": "2019-05-10 20:06:54",
+    "Temperature": 23.2,
+    "Humidity": 59.299
+  },
+  {
+    "Timestamp": 1557512214,
+    "Date and time": "2019-05-10 20:16:54",
+    "Temperature": 23.2,
+    "Humidity": 60.099
+  },
+  {
+    "Timestamp": 1557512814,
+    "Date and time": "2019-05-10 20:26:54",
+    "Temperature": 23.299,
+    "Humidity": 62.099
+  },
+  {
+    "Timestamp": 1557513414,
+    "Date and time": "2019-05-10 20:36:54",
+    "Temperature": 23.399,
+    "Humidity": 64.699
+  },
+  {
+    "Timestamp": 1557514014,
+    "Date and time": "2019-05-10 20:46:54",
+    "Temperature": 23.399,
+    "Humidity": 66.699
+  },
+  {
+    "Timestamp": 1557514614,
+    "Date and time": "2019-05-10 20:56:54",
+    "Temperature": 23.399,
+    "Humidity": 65.199
+  },
+  {
+    "Timestamp": 1557515214,
+    "Date and time": "2019-05-10 21:06:54",
+    "Temperature": 23.399,
+    "Humidity": 63.9
+  },
+  {
+    "Timestamp": 1557515814,
+    "Date and time": "2019-05-10 21:16:54",
+    "Temperature": 23.399,
+    "Humidity": 63.299
+  },
+  {
+    "Timestamp": 1557516414,
+    "Date and time": "2019-05-10 21:26:54",
+    "Temperature": 23.399,
+    "Humidity": 62.5
+  },
+  {
+    "Timestamp": 1557517014,
+    "Date and time": "2019-05-10 21:36:54",
+    "Temperature": 23.299,
+    "Humidity": 62.299
+  },
+  {
+    "Timestamp": 1557517614,
+    "Date and time": "2019-05-10 21:46:54",
+    "Temperature": 23.2,
+    "Humidity": 61.599
+  },
+  {
+    "Timestamp": 1557518214,
+    "Date and time": "2019-05-10 21:56:54",
+    "Temperature": 23.299,
+    "Humidity": 61.4
+  },
+  {
+    "Timestamp": 1557518814,
+    "Date and time": "2019-05-10 22:06:54",
+    "Temperature": 23.299,
+    "Humidity": 61.5
+  },
+  {
+    "Timestamp": 1557519414,
+    "Date and time": "2019-05-10 22:16:54",
+    "Temperature": 23.2,
+    "Humidity": 60.5
+  },
+  {
+    "Timestamp": 1557520014,
+    "Date and time": "2019-05-10 22:26:54",
+    "Temperature": 23.2,
+    "Humidity": 60.7
+  },
+  {
+    "Timestamp": 1557520614,
+    "Date and time": "2019-05-10 22:36:54",
+    "Temperature": 23.2,
+    "Humidity": 60
+  },
+  {
+    "Timestamp": 1557521214,
+    "Date and time": "2019-05-10 22:46:54",
+    "Temperature": 23.2,
+    "Humidity": 60
+  },
+  {
+    "Timestamp": 1557521814,
+    "Date and time": "2019-05-10 22:56:54",
+    "Temperature": 23.2,
+    "Humidity": 59.5
+  },
+  {
+    "Timestamp": 1557522414,
+    "Date and time": "2019-05-10 23:06:54",
+    "Temperature": 23.1,
+    "Humidity": 59.299
+  },
+  {
+    "Timestamp": 1557523014,
+    "Date and time": "2019-05-10 23:16:54",
+    "Temperature": 23.1,
+    "Humidity": 59
+  },
+  {
+    "Timestamp": 1557523614,
+    "Date and time": "2019-05-10 23:26:54",
+    "Temperature": 23.1,
+    "Humidity": 59.099
+  },
+  {
+    "Timestamp": 1557524214,
+    "Date and time": "2019-05-10 23:36:54",
+    "Temperature": 23.1,
+    "Humidity": 59.4
+  },
+  {
+    "Timestamp": 1557524814,
+    "Date and time": "2019-05-10 23:46:54",
+    "Temperature": 23.1,
+    "Humidity": 59
+  },
+  {
+    "Timestamp": 1557525414,
+    "Date and time": "2019-05-10 23:56:54",
+    "Temperature": 23.1,
+    "Humidity": 59
+  },
+  {
+    "Timestamp": 1557526014,
+    "Date and time": "2019-05-11 00:06:54",
+    "Temperature": 23.1,
+    "Humidity": 58.7
+  },
+  {
+    "Timestamp": 1557526614,
+    "Date and time": "2019-05-11 00:16:54",
+    "Temperature": 23,
+    "Humidity": 58.299
+  },
+  {
+    "Timestamp": 1557527214,
+    "Date and time": "2019-05-11 00:26:54",
+    "Temperature": 23,
+    "Humidity": 58
+  },
+  {
+    "Timestamp": 1557527814,
+    "Date and time": "2019-05-11 00:36:54",
+    "Temperature": 23,
+    "Humidity": 58
+  },
+  {
+    "Timestamp": 1557528414,
+    "Date and time": "2019-05-11 00:46:54",
+    "Temperature": 23,
+    "Humidity": 57.599
+  },
+  {
+    "Timestamp": 1557529014,
+    "Date and time": "2019-05-11 00:56:54",
+    "Temperature": 23,
+    "Humidity": 57.4
+  },
+  {
+    "Timestamp": 1557529614,
+    "Date and time": "2019-05-11 01:06:54",
+    "Temperature": 23,
+    "Humidity": 57.299
+  },
+  {
+    "Timestamp": 1557530214,
+    "Date and time": "2019-05-11 01:16:54",
+    "Temperature": 22.899,
+    "Humidity": 57
+  },
+  {
+    "Timestamp": 1557530814,
+    "Date and time": "2019-05-11 01:26:54",
+    "Temperature": 22.899,
+    "Humidity": 56.9
+  },
+  {
+    "Timestamp": 1557531414,
+    "Date and time": "2019-05-11 01:36:54",
+    "Temperature": 22.899,
+    "Humidity": 56.7
+  },
+  {
+    "Timestamp": 1557532015,
+    "Date and time": "2019-05-11 01:46:55",
+    "Temperature": 22.899,
+    "Humidity": 56.5
+  },
+  {
+    "Timestamp": 1557532614,
+    "Date and time": "2019-05-11 01:56:54",
+    "Temperature": 22.899,
+    "Humidity": 56.4
+  },
+  {
+    "Timestamp": 1557533214,
+    "Date and time": "2019-05-11 02:06:54",
+    "Temperature": 22.899,
+    "Humidity": 56.2
+  },
+  {
+    "Timestamp": 1557533814,
+    "Date and time": "2019-05-11 02:16:54",
+    "Temperature": 22.899,
+    "Humidity": 56.099
+  },
+  {
+    "Timestamp": 1557534414,
+    "Date and time": "2019-05-11 02:26:54",
+    "Temperature": 22.899,
+    "Humidity": 55.9
+  },
+  {
+    "Timestamp": 1557535014,
+    "Date and time": "2019-05-11 02:36:54",
+    "Temperature": 22.799,
+    "Humidity": 55.799
+  },
+  {
+    "Timestamp": 1557535614,
+    "Date and time": "2019-05-11 02:46:54",
+    "Temperature": 22.799,
+    "Humidity": 55.7
+  },
+  {
+    "Timestamp": 1557536214,
+    "Date and time": "2019-05-11 02:56:54",
+    "Temperature": 22.799,
+    "Humidity": 55.5
+  },
+  {
+    "Timestamp": 1557536814,
+    "Date and time": "2019-05-11 03:06:54",
+    "Temperature": 22.799,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557537414,
+    "Date and time": "2019-05-11 03:16:54",
+    "Temperature": 22.799,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557538014,
+    "Date and time": "2019-05-11 03:26:54",
+    "Temperature": 22.799,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557538614,
+    "Date and time": "2019-05-11 03:36:54",
+    "Temperature": 22.799,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557539214,
+    "Date and time": "2019-05-11 03:46:54",
+    "Temperature": 22.7,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557539814,
+    "Date and time": "2019-05-11 03:56:54",
+    "Temperature": 22.7,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557540414,
+    "Date and time": "2019-05-11 04:06:54",
+    "Temperature": 22.7,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557541014,
+    "Date and time": "2019-05-11 04:16:54",
+    "Temperature": 22.7,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557541614,
+    "Date and time": "2019-05-11 04:26:54",
+    "Temperature": 22.7,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557542214,
+    "Date and time": "2019-05-11 04:36:54",
+    "Temperature": 22.7,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557542815,
+    "Date and time": "2019-05-11 04:46:55",
+    "Temperature": 22.7,
+    "Humidity": 55.4
+  },
+  {
+    "Timestamp": 1557543414,
+    "Date and time": "2019-05-11 04:56:54",
+    "Temperature": 22.7,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557544014,
+    "Date and time": "2019-05-11 05:06:54",
+    "Temperature": 22.6,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557544614,
+    "Date and time": "2019-05-11 05:16:54",
+    "Temperature": 22.6,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557545214,
+    "Date and time": "2019-05-11 05:26:54",
+    "Temperature": 22.6,
+    "Humidity": 55.4
+  },
+  {
+    "Timestamp": 1557545814,
+    "Date and time": "2019-05-11 05:36:54",
+    "Temperature": 22.6,
+    "Humidity": 55.299
+  },
+  {
+    "Timestamp": 1557546414,
+    "Date and time": "2019-05-11 05:46:54",
+    "Temperature": 22.6,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557547014,
+    "Date and time": "2019-05-11 05:56:54",
+    "Temperature": 22.6,
+    "Humidity": 55.099
+  },
+  {
+    "Timestamp": 1557547614,
+    "Date and time": "2019-05-11 06:06:54",
+    "Temperature": 22.6,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557548214,
+    "Date and time": "2019-05-11 06:16:54",
+    "Temperature": 22.6,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557548814,
+    "Date and time": "2019-05-11 06:26:54",
+    "Temperature": 22.6,
+    "Humidity": 55.2
+  },
+  {
+    "Timestamp": 1557549414,
+    "Date and time": "2019-05-11 06:36:54",
+    "Temperature": 22.7,
+    "Humidity": 54.799
+  },
+  {
+    "Timestamp": 1557550014,
+    "Date and time": "2019-05-11 06:46:54",
+    "Temperature": 22.6,
+    "Humidity": 54.4
+  },
+  {
+    "Timestamp": 1557550614,
+    "Date and time": "2019-05-11 06:56:54",
+    "Temperature": 22.7,
+    "Humidity": 56.2
+  },
+  {
+    "Timestamp": 1557551214,
+    "Date and time": "2019-05-11 07:06:54",
+    "Temperature": 22.6,
+    "Humidity": 54.5
+  },
+  {
+    "Timestamp": 1557551814,
+    "Date and time": "2019-05-11 07:16:54",
+    "Temperature": 22.6,
+    "Humidity": 53.099
+  },
+  {
+    "Timestamp": 1557552414,
+    "Date and time": "2019-05-11 07:26:54",
+    "Temperature": 22.5,
+    "Humidity": 51.799
+  },
+  {
+    "Timestamp": 1557553014,
+    "Date and time": "2019-05-11 07:36:54",
+    "Temperature": 22.5,
+    "Humidity": 50.599
+  },
+  {
+    "Timestamp": 1557553615,
+    "Date and time": "2019-05-11 07:46:55",
+    "Temperature": 22.5,
+    "Humidity": 48.9
+  },
+  {
+    "Timestamp": 1557554214,
+    "Date and time": "2019-05-11 07:56:54",
+    "Temperature": 22.399,
+    "Humidity": 47.4
+  },
+  {
+    "Timestamp": 1557554814,
+    "Date and time": "2019-05-11 08:06:54",
+    "Temperature": 22.299,
+    "Humidity": 46.4
+  },
+  {
+    "Timestamp": 1557555414,
+    "Date and time": "2019-05-11 08:16:54",
+    "Temperature": 22.299,
+    "Humidity": 46.599
+  },
+  {
+    "Timestamp": 1557556014,
+    "Date and time": "2019-05-11 08:26:54",
+    "Temperature": 22.2,
+    "Humidity": 46.099
+  },
+  {
+    "Timestamp": 1557556614,
+    "Date and time": "2019-05-11 08:36:54",
+    "Temperature": 22.2,
+    "Humidity": 45.4
+  },
+  {
+    "Timestamp": 1557557214,
+    "Date and time": "2019-05-11 08:46:54",
+    "Temperature": 22.2,
+    "Humidity": 45.099
+  },
+  {
+    "Timestamp": 1557557814,
+    "Date and time": "2019-05-11 08:56:54",
+    "Temperature": 22.2,
+    "Humidity": 45
+  },
+  {
+    "Timestamp": 1557558414,
+    "Date and time": "2019-05-11 09:06:54",
+    "Temperature": 22.2,
+    "Humidity": 45
+  },
+  {
+    "Timestamp": 1557559015,
+    "Date and time": "2019-05-11 09:16:55",
+    "Temperature": 22.1,
+    "Humidity": 43.9
+  },
+  {
+    "Timestamp": 1557559614,
+    "Date and time": "2019-05-11 09:26:54",
+    "Temperature": 22.2,
+    "Humidity": 45.099
+  },
+  {
+    "Timestamp": 1557560214,
+    "Date and time": "2019-05-11 09:36:54",
+    "Temperature": 22.2,
+    "Humidity": 46.7
+  },
+  {
+    "Timestamp": 1557560814,
+    "Date and time": "2019-05-11 09:46:54",
+    "Temperature": 22.2,
+    "Humidity": 46
+  },
+  {
+    "Timestamp": 1557561414,
+    "Date and time": "2019-05-11 09:56:54",
+    "Temperature": 22.2,
+    "Humidity": 44.7
+  },
+  {
+    "Timestamp": 1557562014,
+    "Date and time": "2019-05-11 10:06:54",
+    "Temperature": 22.1,
+    "Humidity": 44.2
+  },
+  {
+    "Timestamp": 1557562614,
+    "Date and time": "2019-05-11 10:16:54",
+    "Temperature": 22.1,
+    "Humidity": 44.4
+  },
+  {
+    "Timestamp": 1557563214,
+    "Date and time": "2019-05-11 10:26:54",
+    "Temperature": 22.1,
+    "Humidity": 44.4
+  },
+  {
+    "Timestamp": 1557563814,
+    "Date and time": "2019-05-11 10:36:54",
+    "Temperature": 22.1,
+    "Humidity": 44.2
+  },
+  {
+    "Timestamp": 1557564414,
+    "Date and time": "2019-05-11 10:46:54",
+    "Temperature": 22.1,
+    "Humidity": 43.7
+  },
+  {
+    "Timestamp": 1557565014,
+    "Date and time": "2019-05-11 10:56:54",
+    "Temperature": 22.1,
+    "Humidity": 42.9
+  },
+  {
+    "Timestamp": 1557565614,
+    "Date and time": "2019-05-11 11:06:54",
+    "Temperature": 22,
+    "Humidity": 43.9
+  },
+  {
+    "Timestamp": 1557566215,
+    "Date and time": "2019-05-11 11:16:55",
+    "Temperature": 21.899,
+    "Humidity": 44.5
+  },
+  {
+    "Timestamp": 1557566814,
+    "Date and time": "2019-05-11 11:26:54",
+    "Temperature": 21.899,
+    "Humidity": 47.799
+  },
+  {
+    "Timestamp": 1557567414,
+    "Date and time": "2019-05-11 11:36:54",
+    "Temperature": 21.899,
+    "Humidity": 47.5
+  },
+  {
+    "Timestamp": 1557568014,
+    "Date and time": "2019-05-11 11:46:54",
+    "Temperature": 21.799,
+    "Humidity": 48.4
+  },
+  {
+    "Timestamp": 1557568614,
+    "Date and time": "2019-05-11 11:56:54",
+    "Temperature": 21.799,
+    "Humidity": 48.5
+  },
+  {
+    "Timestamp": 1557569214,
+    "Date and time": "2019-05-11 12:06:54",
+    "Temperature": 21.799,
+    "Humidity": 48
+  },
+  {
+    "Timestamp": 1557569814,
+    "Date and time": "2019-05-11 12:16:54",
+    "Temperature": 21.799,
+    "Humidity": 50.4
+  },
+  {
+    "Timestamp": 1557570414,
+    "Date and time": "2019-05-11 12:26:54",
+    "Temperature": 21.7,
+    "Humidity": 49.2
+  },
+  {
+    "Timestamp": 1557571014,
+    "Date and time": "2019-05-11 12:36:54",
+    "Temperature": 21.7,
+    "Humidity": 48.599
+  },
+  {
+    "Timestamp": 1557571614,
+    "Date and time": "2019-05-11 12:46:54",
+    "Temperature": 21.799,
+    "Humidity": 52.099
+  },
+  {
+    "Timestamp": 1557572214,
+    "Date and time": "2019-05-11 12:56:54",
+    "Temperature": 21.799,
+    "Humidity": 54.599
+  },
+  {
+    "Timestamp": 1557572814,
+    "Date and time": "2019-05-11 13:06:54",
+    "Temperature": 21.899,
+    "Humidity": 65
+  },
+  {
+    "Timestamp": 1557573414,
+    "Date and time": "2019-05-11 13:16:54",
+    "Temperature": 22,
+    "Humidity": 68.4
+  },
+  {
+    "Timestamp": 1557574014,
+    "Date and time": "2019-05-11 13:26:54",
+    "Temperature": 22,
+    "Humidity": 67.9
+  },
+  {
+    "Timestamp": 1557574614,
+    "Date and time": "2019-05-11 13:36:54",
+    "Temperature": 22,
+    "Humidity": 64.199
+  },
+  {
+    "Timestamp": 1557575214,
+    "Date and time": "2019-05-11 13:46:54",
+    "Temperature": 21.899,
+    "Humidity": 59.5
+  },
+  {
+    "Timestamp": 1557575814,
+    "Date and time": "2019-05-11 13:56:54",
+    "Temperature": 21.899,
+    "Humidity": 53.299
+  },
+  {
+    "Timestamp": 1557576414,
+    "Date and time": "2019-05-11 14:06:54",
+    "Temperature": 21.899,
+    "Humidity": 52.2
+  },
+  {
+    "Timestamp": 1557577014,
+    "Date and time": "2019-05-11 14:16:54",
+    "Temperature": 21.899,
+    "Humidity": 49.7
+  },
+  {
+    "Timestamp": 1557577614,
+    "Date and time": "2019-05-11 14:26:54",
+    "Temperature": 21.899,
+    "Humidity": 49.099
+  },
+  {
+    "Timestamp": 1557578214,
+    "Date and time": "2019-05-11 14:36:54",
+    "Temperature": 21.799,
+    "Humidity": 48.4
+  },
+  {
+    "Timestamp": 1557578814,
+    "Date and time": "2019-05-11 14:46:54",
+    "Temperature": 21.799,
+    "Humidity": 48.9
+  },
+  {
+    "Timestamp": 1557579414,
+    "Date and time": "2019-05-11 14:56:54",
+    "Temperature": 21.799,
+    "Humidity": 48.799
+  },
+  {
+    "Timestamp": 1557580014,
+    "Date and time": "2019-05-11 15:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557580614,
+    "Date and time": "2019-05-11 15:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557581214,
+    "Date and time": "2019-05-11 15:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557581814,
+    "Date and time": "2019-05-11 15:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557582414,
+    "Date and time": "2019-05-11 15:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557583014,
+    "Date and time": "2019-05-11 15:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557583614,
+    "Date and time": "2019-05-11 16:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557584214,
+    "Date and time": "2019-05-11 16:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557584814,
+    "Date and time": "2019-05-11 16:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557585414,
+    "Date and time": "2019-05-11 16:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557586014,
+    "Date and time": "2019-05-11 16:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557586614,
+    "Date and time": "2019-05-11 16:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557587214,
+    "Date and time": "2019-05-11 17:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557587814,
+    "Date and time": "2019-05-11 17:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557588414,
+    "Date and time": "2019-05-11 17:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557589014,
+    "Date and time": "2019-05-11 17:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557589614,
+    "Date and time": "2019-05-11 17:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557590215,
+    "Date and time": "2019-05-11 17:56:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557590814,
+    "Date and time": "2019-05-11 18:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557591414,
+    "Date and time": "2019-05-11 18:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557592014,
+    "Date and time": "2019-05-11 18:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557592615,
+    "Date and time": "2019-05-11 18:36:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557593214,
+    "Date and time": "2019-05-11 18:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557593814,
+    "Date and time": "2019-05-11 18:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557594414,
+    "Date and time": "2019-05-11 19:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557595014,
+    "Date and time": "2019-05-11 19:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557595614,
+    "Date and time": "2019-05-11 19:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557596214,
+    "Date and time": "2019-05-11 19:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557596814,
+    "Date and time": "2019-05-11 19:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557597414,
+    "Date and time": "2019-05-11 19:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557598014,
+    "Date and time": "2019-05-11 20:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557598614,
+    "Date and time": "2019-05-11 20:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557599214,
+    "Date and time": "2019-05-11 20:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557599815,
+    "Date and time": "2019-05-11 20:36:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557600414,
+    "Date and time": "2019-05-11 20:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557601014,
+    "Date and time": "2019-05-11 20:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557601614,
+    "Date and time": "2019-05-11 21:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557602214,
+    "Date and time": "2019-05-11 21:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557602815,
+    "Date and time": "2019-05-11 21:26:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557603414,
+    "Date and time": "2019-05-11 21:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557604014,
+    "Date and time": "2019-05-11 21:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557604614,
+    "Date and time": "2019-05-11 21:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557605214,
+    "Date and time": "2019-05-11 22:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557605814,
+    "Date and time": "2019-05-11 22:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557606414,
+    "Date and time": "2019-05-11 22:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557607014,
+    "Date and time": "2019-05-11 22:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557607614,
+    "Date and time": "2019-05-11 22:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557608215,
+    "Date and time": "2019-05-11 22:56:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557608814,
+    "Date and time": "2019-05-11 23:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557609414,
+    "Date and time": "2019-05-11 23:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557610014,
+    "Date and time": "2019-05-11 23:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557610614,
+    "Date and time": "2019-05-11 23:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557611214,
+    "Date and time": "2019-05-11 23:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557611814,
+    "Date and time": "2019-05-11 23:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557612414,
+    "Date and time": "2019-05-12 00:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557613014,
+    "Date and time": "2019-05-12 00:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557613614,
+    "Date and time": "2019-05-12 00:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557614214,
+    "Date and time": "2019-05-12 00:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557614814,
+    "Date and time": "2019-05-12 00:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557615414,
+    "Date and time": "2019-05-12 00:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557616014,
+    "Date and time": "2019-05-12 01:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557616614,
+    "Date and time": "2019-05-12 01:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557617214,
+    "Date and time": "2019-05-12 01:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557617814,
+    "Date and time": "2019-05-12 01:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557618414,
+    "Date and time": "2019-05-12 01:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557619014,
+    "Date and time": "2019-05-12 01:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557619614,
+    "Date and time": "2019-05-12 02:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557620214,
+    "Date and time": "2019-05-12 02:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557620814,
+    "Date and time": "2019-05-12 02:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557621415,
+    "Date and time": "2019-05-12 02:36:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557622014,
+    "Date and time": "2019-05-12 02:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557622614,
+    "Date and time": "2019-05-12 02:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557623214,
+    "Date and time": "2019-05-12 03:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557623814,
+    "Date and time": "2019-05-12 03:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557624414,
+    "Date and time": "2019-05-12 03:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557625014,
+    "Date and time": "2019-05-12 03:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557625614,
+    "Date and time": "2019-05-12 03:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557626214,
+    "Date and time": "2019-05-12 03:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557626814,
+    "Date and time": "2019-05-12 04:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557627414,
+    "Date and time": "2019-05-12 04:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557628014,
+    "Date and time": "2019-05-12 04:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557628614,
+    "Date and time": "2019-05-12 04:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557629214,
+    "Date and time": "2019-05-12 04:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557629814,
+    "Date and time": "2019-05-12 04:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557630415,
+    "Date and time": "2019-05-12 05:06:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557631014,
+    "Date and time": "2019-05-12 05:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557631614,
+    "Date and time": "2019-05-12 05:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557632214,
+    "Date and time": "2019-05-12 05:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557632814,
+    "Date and time": "2019-05-12 05:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557633414,
+    "Date and time": "2019-05-12 05:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557634014,
+    "Date and time": "2019-05-12 06:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557634614,
+    "Date and time": "2019-05-12 06:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557635214,
+    "Date and time": "2019-05-12 06:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557635814,
+    "Date and time": "2019-05-12 06:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557636414,
+    "Date and time": "2019-05-12 06:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557637014,
+    "Date and time": "2019-05-12 06:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557637614,
+    "Date and time": "2019-05-12 07:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557638215,
+    "Date and time": "2019-05-12 07:16:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557638814,
+    "Date and time": "2019-05-12 07:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557639414,
+    "Date and time": "2019-05-12 07:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557640014,
+    "Date and time": "2019-05-12 07:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557640614,
+    "Date and time": "2019-05-12 07:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557641214,
+    "Date and time": "2019-05-12 08:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557641814,
+    "Date and time": "2019-05-12 08:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557642414,
+    "Date and time": "2019-05-12 08:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557643014,
+    "Date and time": "2019-05-12 08:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557643614,
+    "Date and time": "2019-05-12 08:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557644214,
+    "Date and time": "2019-05-12 08:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557644815,
+    "Date and time": "2019-05-12 09:06:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557645414,
+    "Date and time": "2019-05-12 09:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557646014,
+    "Date and time": "2019-05-12 09:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557646614,
+    "Date and time": "2019-05-12 09:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557647214,
+    "Date and time": "2019-05-12 09:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557647814,
+    "Date and time": "2019-05-12 09:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557648414,
+    "Date and time": "2019-05-12 10:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557649014,
+    "Date and time": "2019-05-12 10:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557649615,
+    "Date and time": "2019-05-12 10:26:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557650214,
+    "Date and time": "2019-05-12 10:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557650814,
+    "Date and time": "2019-05-12 10:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557651414,
+    "Date and time": "2019-05-12 10:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557652014,
+    "Date and time": "2019-05-12 11:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557652614,
+    "Date and time": "2019-05-12 11:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557653214,
+    "Date and time": "2019-05-12 11:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557653814,
+    "Date and time": "2019-05-12 11:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557654414,
+    "Date and time": "2019-05-12 11:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557655015,
+    "Date and time": "2019-05-12 11:56:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557655614,
+    "Date and time": "2019-05-12 12:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557656214,
+    "Date and time": "2019-05-12 12:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557656814,
+    "Date and time": "2019-05-12 12:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557657414,
+    "Date and time": "2019-05-12 12:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557658014,
+    "Date and time": "2019-05-12 12:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557658614,
+    "Date and time": "2019-05-12 12:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557659214,
+    "Date and time": "2019-05-12 13:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557659814,
+    "Date and time": "2019-05-12 13:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557660414,
+    "Date and time": "2019-05-12 13:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557661014,
+    "Date and time": "2019-05-12 13:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557661614,
+    "Date and time": "2019-05-12 13:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557662214,
+    "Date and time": "2019-05-12 13:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557662815,
+    "Date and time": "2019-05-12 14:06:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557663414,
+    "Date and time": "2019-05-12 14:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557664014,
+    "Date and time": "2019-05-12 14:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557664614,
+    "Date and time": "2019-05-12 14:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557665214,
+    "Date and time": "2019-05-12 14:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557665815,
+    "Date and time": "2019-05-12 14:56:55",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557666414,
+    "Date and time": "2019-05-12 15:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557667014,
+    "Date and time": "2019-05-12 15:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557667614,
+    "Date and time": "2019-05-12 15:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557668214,
+    "Date and time": "2019-05-12 15:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557668814,
+    "Date and time": "2019-05-12 15:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557669414,
+    "Date and time": "2019-05-12 15:56:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557670014,
+    "Date and time": "2019-05-12 16:06:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557670614,
+    "Date and time": "2019-05-12 16:16:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557671214,
+    "Date and time": "2019-05-12 16:26:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557671814,
+    "Date and time": "2019-05-12 16:36:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  },
+  {
+    "Timestamp": 1557672414,
+    "Date and time": "2019-05-12 16:46:54",
+    "Temperature": 21.7,
+    "Humidity": 47.7
+  }
+]
