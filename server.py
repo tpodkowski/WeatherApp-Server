@@ -48,8 +48,7 @@ def add_sensors():
 @app.route("/api/sensors/<int:sensor_id>", methods=['DELETE'])
 def remove_sensor(sensor_id):
   global DATABASE
-  DATABASE = [sensor for sensor in DATABASE if not (sensor['id'] == sensor_id)]
-  DATABASE = get_sensors_measurements(DATABASE)
+  DATABASE = get_sensors_measurements([sensor for sensor in DATABASE if not (sensor['id'] == sensor_id)])
   return jsonify(DATABASE)
 
 @app.route("/api/forecast", methods=['GET'])
@@ -79,11 +78,12 @@ def get_history(sensor_id):
 def get_sensors_measurements(sensors_list):
   SENSORS = []
   for sensor in sensors_list:
-    response = requests.get(sensor["url"])
-    SENSORS.append({
+    sensor_with_measurements = {
       **sensor,
-      "measurements": response.json(),
-    })
+      "measurements": requests.get(sensor["url"]).json(),
+    }
+
+    SENSORS.append(sensor_with_measurements)
   return SENSORS
 
 if __name__ == "__main__":
