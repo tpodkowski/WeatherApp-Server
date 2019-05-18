@@ -17,15 +17,18 @@ INDEX = 2
 DATABASE = [{
   "id": 0,
   "name": "Tomek",
-  "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
+  "url": "https://svr7.supla.org/direct/320/R4jiNGRMwUMYZ2m/read",
+  "group": "coral"
 }, {
   "id": 1,
   "name": "Szymon",
-  "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
+  "url": "https://svr7.supla.org/direct/320/R4jiNGRMwUMYZ2m/read",
+  "group": "aquamarine"
 }, {
   "id": 2,
   "name": "Tomek",
-  "url": "https://svr21.supla.org/direct/67/WzYZzmZMzEY2Y5gG/read"
+  "url": "https://svr7.supla.org/direct/320/R4jiNGRMwUMYZ2m/read",
+  "group": "coral"
 }]
 
 @app.route("/")
