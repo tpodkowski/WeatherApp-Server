@@ -24,11 +24,6 @@ DATABASE = [{
   "name": "Szymon",
   "url": "https://svr7.supla.org/direct/320/R4jiNGRMwUMYZ2m/read",
   "group": "aquamarine"
-}, {
-  "id": 2,
-  "name": "Tomek",
-  "url": "https://svr7.supla.org/direct/320/R4jiNGRMwUMYZ2m/read",
-  "group": "coral"
 }]
 
 @app.route("/")
